@@ -11,3 +11,6 @@ venv/
 
 # File personali
 .env
+
+# immagini generate da notebook
+*.png
