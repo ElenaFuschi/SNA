@@ -1,0 +1,2 @@
+full_graph_nodes,full_graph_edges,known_sector_nodes,known_sector_edges,sector_assortativity_full,sector_assortativity_known,same_sector_edge_fraction,random_same_sector_baseline,official_sector_modularity
+6243,462904,5091,431862,0.07335641508163421,0.058388135395042395,0.18341507240738938,0.1284689752379797,0.0506353765347162
